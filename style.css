@@ -1,0 +1,37 @@
+header, footer 
+{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul 
+{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    background-color: #555;
+}
+
+nav li 
+{
+    margin: 0;
+    padding: 10px;
+}
+
+nav a 
+{
+    text-decoration: none;
+    color: #fff;
+}
+
+main 
+{
+    padding: 30px;
+}
+
+img 
+{
+    border: 1px solid #333;
+}
